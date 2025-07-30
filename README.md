@@ -24,9 +24,9 @@ Mediante el análisis de:
 
 ---
 ## 📁**Estructura del Proyecto:**
-- [Dataset Procesado](/data/Base_de_datos_para_calculos.xlsx)
-- [Informe Completo(Word)](/docs/Proyecto_Semestral_de_Probabilidad)
-- [Gráfico de Análisis](/graph/Gráfica.pbix)
+- [Dataset Procesado](main/data/Base_de_datos_para_calculos.xlsx)
+- [Informe Completo(Word)](main/docs/Proyecto_Semestral_de_Probabilidad)
+- [Gráfico de Análisis](main/graph/Gráfica.pbix)
   
 ---
 ## 🎧 **Herramientas Utilizadas**
