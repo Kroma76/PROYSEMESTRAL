@@ -30,13 +30,6 @@ Mediante el análisis de:
 
 ---
 
-## 📁 **Estructura de Anexo:**
-- [Informe Completo(Word)](/docs/)
-- [Cálculos en Excel](/data/)
-- [Gráfico de Análisis](/graph/)
-
----
-
 ## 👥 **Cómo replicar**
 1. Clonar repositorio
 2. Abrir Archivo `Proyecto Semestral de Probabilidad.docx` para contexto teórico
