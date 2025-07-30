@@ -31,9 +31,9 @@ Mediante el análisis de:
 ---
 
 ## 📁 **Estructura de Anexo:**
-- [Informe Completo(Word)](/docs/Proyecto_Semestral_de_Probabilidad.docx)
-- [Cálculos en Excel](/data/Base_de_datos_para_calculo.xlsx)
-- [Gráfico de Análisis](/graph/Gráfica.pibx)
+- [Informe Completo(Word)](/docs/)
+- [Cálculos en Excel](/data/)
+- [Gráfico de Análisis](/graph/)
 
 ---
 
