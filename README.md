@@ -21,6 +21,12 @@ Mediante el análisis de:
 
 ⁉️ ** Tendencias temporales:**
 - Pico de Popularidad en canciones de los años 2000-2005 (*efecto nostalgia*).
+
+---
+## 📁**Estructura del Proyecto:**
+- [Dataset Procesado](/data/Base_de_datos_para_calculos.xlsx)
+- [Informe Completo(Word)](/docs/Proyecto_Semestral_de_Probabilidad)
+- [Gráfico de Análisis](/graph/Gráfica.pbix)
   
 ---
 ## 🎧 **Herramientas Utilizadas**
@@ -30,10 +36,10 @@ Mediante el análisis de:
 
 ---
 
-## **Cómo replicar**
-1. clonar repositorio
-2.  Abrir Archivo `Proyecto Semestral de Probabilidad.docx` para contexto teórico
-3.   Ejecutar cálculos en `Base de datos para calculos.xlsx`.
+## 👥 **Cómo replicar**
+1. Clonar repositorio
+2. Abrir Archivo `Proyecto Semestral de Probabilidad.docx` para contexto teórico
+3. Ejecutar cálculos en `Base de datos para calculos.xlsx`.
 
 ---
 
