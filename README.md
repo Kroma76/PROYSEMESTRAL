@@ -20,13 +20,7 @@ Mediante el análisis de:
 - Bailabilidad (`R=0.07`), volumen (`R=0.14`) y valencia no correlación con la popularidad.
 
 ⁉️ **Tendencias temporales:**
-- Pico de Popularidad en canciones de los años 2000-2005 (*efecto nostalgia*).
-
----
-## 📁**Estructura del Proyecto:**
-- [Dataset Procesado](/data/Base_de_datos_para_calculos.xlsx)
-- [Informe Completo(Word)](/docs/Proyecto_Semestral_de_Probabilidad)
-- [Gráfico de Análisis](/graph/Gráfica.pbix)
+- Pico de Popularidad en canciones de los años 2000-2005 (*efecto nostalgia*)
   
 ---
 ## 🎧 **Herramientas Utilizadas**
