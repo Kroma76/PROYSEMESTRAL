@@ -19,7 +19,7 @@ Mediante el análisis de:
 ❌ **Características musicales no determinantes**:
 - Bailabilidad (`R=0.07`), volumen (`R=0.14`) y valencia no correlación con la popularidad.
 
-⁉️ ** Tendencias temporales:**
+⁉️ **Tendencias temporales:**
 - Pico de Popularidad en canciones de los años 2000-2005 (*efecto nostalgia*).
 
 ---
